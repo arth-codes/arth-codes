@@ -63,12 +63,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arth-codes&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
