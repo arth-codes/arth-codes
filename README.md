@@ -69,7 +69,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://ghchart.rshah.org/f5a623/arth-codes" alt="arth-codes's GitHub contribution chart" />
+<img src="https://ghchart.rshah.org/39d353/arth-codes" alt="arth-codes's GitHub contribution chart" />
 </div>
 
 ---
