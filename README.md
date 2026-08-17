@@ -69,7 +69,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arth-codes&bg_color=00000000&color=f5a623&line=f5a623&point=ffffff&hide_border=true&area=true" />
+<img src="https://ghchart.rshah.org/f5a623/arth-codes" alt="arth-codes's GitHub contribution chart" />
 </div>
 
 ---
